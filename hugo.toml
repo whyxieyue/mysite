@@ -1,7 +1,7 @@
 baseURL = 'https://whyxieyue.github.io/mysite'
 
 # 更改使用 Hugo 构建网站时使用的默认主题
-theme = "loveIt"
+theme = "loveit"
 
 # 网站标题
 title = "我的全新 Hugo 网站"
