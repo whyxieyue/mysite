@@ -1,0 +1,23 @@
+{
+    "created_time": "2024-01-30T12:35:56Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "_core"
+        },
+        {
+            "name": "_mixin"
+        },
+        {
+            "name": "_page"
+        },
+        {
+            "name": "_partial"
+        }
+    ],
+    "id": "49",
+    "modified_time": "2024-01-30T12:35:56Z",
+    "signature": "121347417632044",
+    "version": 3
+}

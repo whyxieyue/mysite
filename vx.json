@@ -1,0 +1,39 @@
+{
+    "created_time": "2024-01-30T12:35:55Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:55Z",
+            "id": "32",
+            "modified_time": "2024-01-30T12:35:55Z",
+            "name": "README.md",
+            "signature": "93314166091051",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": ".github"
+        },
+        {
+            "name": "archetypes"
+        },
+        {
+            "name": "content"
+        },
+        {
+            "name": "public"
+        },
+        {
+            "name": "resources"
+        },
+        {
+            "name": "themes"
+        }
+    ],
+    "id": "1",
+    "modified_time": "2024-01-30T12:35:55Z",
+    "signature": "177800277291",
+    "version": 3
+}

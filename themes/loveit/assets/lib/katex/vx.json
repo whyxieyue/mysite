@@ -1,0 +1,71 @@
+{
+    "created_time": "2024-01-30T12:35:56Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:56Z",
+            "id": "85",
+            "modified_time": "2024-01-30T12:35:56Z",
+            "name": "auto-render.min.js",
+            "signature": "80558113221932",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:56Z",
+            "id": "86",
+            "modified_time": "2024-01-30T12:35:56Z",
+            "name": "copy-tex.min.css",
+            "signature": "50854119402796",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:56Z",
+            "id": "87",
+            "modified_time": "2024-01-30T12:35:56Z",
+            "name": "copy-tex.min.js",
+            "signature": "21330514210092",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:56Z",
+            "id": "88",
+            "modified_time": "2024-01-30T12:35:56Z",
+            "name": "katex.min.css",
+            "signature": "31681385393452",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:56Z",
+            "id": "89",
+            "modified_time": "2024-01-30T12:35:56Z",
+            "name": "katex.min.js",
+            "signature": "59834896018732",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:56Z",
+            "id": "90",
+            "modified_time": "2024-01-30T12:35:56Z",
+            "name": "mhchem.min.js",
+            "signature": "112993706241324",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "84",
+    "modified_time": "2024-01-30T12:35:56Z",
+    "signature": "85703484042540",
+    "version": 3
+}

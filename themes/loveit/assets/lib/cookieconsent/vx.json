@@ -1,0 +1,31 @@
+{
+    "created_time": "2024-01-30T12:35:56Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:56Z",
+            "id": "74",
+            "modified_time": "2024-01-30T12:35:56Z",
+            "name": "cookieconsent.min.css",
+            "signature": "28902541552940",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:56Z",
+            "id": "75",
+            "modified_time": "2024-01-30T12:35:56Z",
+            "name": "cookieconsent.min.js",
+            "signature": "104670059621676",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "73",
+    "modified_time": "2024-01-30T12:35:56Z",
+    "signature": "68248736951596",
+    "version": 3
+}

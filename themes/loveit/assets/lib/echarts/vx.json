@@ -1,0 +1,24 @@
+{
+    "created_time": "2024-01-30T12:35:56Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:56Z",
+            "id": "77",
+            "modified_time": "2024-01-30T12:35:56Z",
+            "name": "echarts.min.js",
+            "signature": "64451985861932",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "theme"
+        }
+    ],
+    "id": "76",
+    "modified_time": "2024-01-30T12:35:56Z",
+    "signature": "65929454611756",
+    "version": 3
+}

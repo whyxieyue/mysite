@@ -1,0 +1,26 @@
+{
+    "created_time": "2024-01-30T12:35:55Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "fonts"
+        },
+        {
+            "name": "images"
+        },
+        {
+            "name": "katex"
+        },
+        {
+            "name": "lightgallery"
+        },
+        {
+            "name": "webfonts"
+        }
+    ],
+    "id": "22",
+    "modified_time": "2024-01-30T12:35:55Z",
+    "signature": "62725409008939",
+    "version": 3
+}

@@ -1,0 +1,56 @@
+{
+    "created_time": "2024-01-30T12:35:57Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:57Z",
+            "id": "209",
+            "modified_time": "2024-01-30T12:35:57Z",
+            "name": "404.html",
+            "signature": "97918371032365",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:57Z",
+            "id": "219",
+            "modified_time": "2024-01-30T12:35:57Z",
+            "name": "index.html",
+            "signature": "13286040464685",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:58Z",
+            "id": "262",
+            "modified_time": "2024-01-30T12:35:58Z",
+            "name": "robots.txt",
+            "signature": "86510937894190",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "_default"
+        },
+        {
+            "name": "partials"
+        },
+        {
+            "name": "posts"
+        },
+        {
+            "name": "shortcodes"
+        },
+        {
+            "name": "taxonomy"
+        }
+    ],
+    "id": "208",
+    "modified_time": "2024-01-30T12:35:57Z",
+    "signature": "135533694610733",
+    "version": 3
+}

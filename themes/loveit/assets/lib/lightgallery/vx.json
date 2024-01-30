@@ -1,0 +1,34 @@
+{
+    "created_time": "2024-01-30T12:35:56Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:56Z",
+            "id": "94",
+            "modified_time": "2024-01-30T12:35:56Z",
+            "name": "lightgallery.min.css",
+            "signature": "48633621310764",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:56Z",
+            "id": "95",
+            "modified_time": "2024-01-30T12:35:56Z",
+            "name": "lightgallery.min.js",
+            "signature": "23782940536108",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "plugins"
+        }
+    ],
+    "id": "93",
+    "modified_time": "2024-01-30T12:35:56Z",
+    "signature": "105769571249452",
+    "version": 3
+}

@@ -1,0 +1,31 @@
+{
+    "created_time": "2024-01-30T12:35:58Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:58Z",
+            "id": "256",
+            "modified_time": "2024-01-30T12:35:58Z",
+            "name": "script.html",
+            "signature": "97265536003374",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:58Z",
+            "id": "257",
+            "modified_time": "2024-01-30T12:35:58Z",
+            "name": "style.html",
+            "signature": "113225634475310",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "255",
+    "modified_time": "2024-01-30T12:35:58Z",
+    "signature": "87309801811246",
+    "version": 3
+}

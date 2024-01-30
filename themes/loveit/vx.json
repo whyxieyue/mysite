@@ -1,0 +1,67 @@
+{
+    "created_time": "2024-01-30T12:35:56Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:58Z",
+            "id": "280",
+            "modified_time": "2024-01-30T12:35:58Z",
+            "name": "README.md",
+            "signature": "115403182894382",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:35:58Z",
+            "id": "281",
+            "modified_time": "2024-01-30T12:35:58Z",
+            "name": "README.zh-cn.md",
+            "signature": "76714117492014",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": ".circleci"
+        },
+        {
+            "name": ".github"
+        },
+        {
+            "name": ".husky"
+        },
+        {
+            "name": "archetypes"
+        },
+        {
+            "name": "assets"
+        },
+        {
+            "name": "exampleSite"
+        },
+        {
+            "name": "i18n"
+        },
+        {
+            "name": "images"
+        },
+        {
+            "name": "layouts"
+        },
+        {
+            "name": "resources"
+        },
+        {
+            "name": "src"
+        },
+        {
+            "name": "static"
+        }
+    ],
+    "id": "39",
+    "modified_time": "2024-01-30T12:35:56Z",
+    "signature": "73166474505516",
+    "version": 3
+}
