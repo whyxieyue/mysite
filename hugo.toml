@@ -39,7 +39,7 @@ hasCJKLanguage = true
     post = ""
     name = "标签"
     url = "/tags/"
-    title = "运维"
+    title = ""
   [[menu.main]]
     weight = 3
     identifier = "categories"
