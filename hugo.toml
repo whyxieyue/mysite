@@ -4,7 +4,7 @@ baseURL = 'https://whyxieyue.github.io/mysite'
 theme = "loveit"
 
 # 网站标题
-title = "我的全新 Hugo 网站"
+title = "我的博客"
 
 # 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "zh-CN"
@@ -15,9 +15,9 @@ hasCJKLanguage = true
 
 # 作者配置
 [author]
-  name = "xxxx"
-  email = ""
-  link = ""
+  name = "xieyue"
+  email = "admin@xieyue.vip"
+  link = "xieyue.vip"
 
 # 菜单配置
 [menu]
