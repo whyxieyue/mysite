@@ -74,13 +74,13 @@
     author = true
     # site creation time
     # 网站创立年份
-    since = 2022
+    since = 2018
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
     # license info (HTML format is supported)
     # 许可协议信息 (支持 HTML 格式)
-    license= ""
+    license= "CC BY-ND 4.0"
 
   # Section (all posts) page config
   # Section (所有文章) 页面配置
@@ -181,7 +181,7 @@
       title = ""
       # subtitle shown in home page
       # 主页显示的网站副标题
-      subtitle = "This is my cool site"
+      subtitle = ""
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
