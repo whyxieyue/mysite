@@ -20,6 +20,26 @@
             "signature": "92021380935389",
             "tags": [
             ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:44:47Z",
+            "id": "306",
+            "modified_time": "2024-01-30T12:44:47Z",
+            "name": ".hugo_build.lock",
+            "signature": "45335086427967",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-01-30T12:44:48Z",
+            "id": "307",
+            "modified_time": "2024-01-30T12:44:48Z",
+            "name": "CNAME",
+            "signature": "14750624313152",
+            "tags": [
+            ]
         }
     ],
     "folders": [
