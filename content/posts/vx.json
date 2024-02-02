@@ -1,21 +1,13 @@
 {
     "created_time": "2024-01-30T12:35:55Z",
     "files": [
-        {
-            "attachment_folder": "568245923256269",
-            "created_time": "2024-01-30T12:35:55Z",
-            "id": "315",
-            "modified_time": "2024-01-30T17:49:35Z",
-            "name": "瞎搞的一天.md",
-            "signature": "126093356494123",
-            "tags": [
-                "3"
-            ]
-        }
     ],
     "folders": [
         {
-            "name": "那些年那些事"
+            "name": "past"
+        },
+        {
+            "name": "Notes"
         }
     ],
     "id": "7",
